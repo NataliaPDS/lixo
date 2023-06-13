@@ -26,7 +26,7 @@ namespace TentativaEstudo
         private void bt_botao2_Click(object sender, EventArgs e)
         {
             try
-            {
+            {//test
                 int a = Convert.ToInt32(tx_valor1.Text);
                 int b = Convert.ToInt32(tx_valor2.Text);
 
