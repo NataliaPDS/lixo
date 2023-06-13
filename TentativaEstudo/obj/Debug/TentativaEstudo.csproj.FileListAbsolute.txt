@@ -1,0 +1,11 @@
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\bin\Debug\TentativaEstudo.exe.config
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\bin\Debug\TentativaEstudo.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\bin\Debug\TentativaEstudo.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.Menu.resources
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.Properties.Resources.resources
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.csproj.GenerateResource.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TentativaEstudo\TentativaEstudo\obj\Debug\TentativaEstudo.pdb
